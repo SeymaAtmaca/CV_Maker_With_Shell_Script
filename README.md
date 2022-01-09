@@ -37,7 +37,7 @@ Make CV file with Shell Script
   
   <br> 2. şablon ;
   
-  ![10](https://github.com/SeymaAtmaca/CV_Maker_With_Shell_Script/blob/main/images/10.png) <br><br>
+  ![10](https://github.com/SeymaAtmaca/CV_Maker_With_Shell_Script/blob/main/images/10.jpg) <br><br>
   
   ---
   <br><br>
