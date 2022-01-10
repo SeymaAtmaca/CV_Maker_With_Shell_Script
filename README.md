@@ -59,7 +59,7 @@ Make CV file with Shell Script
   
   <h1>İletişim<h1>
   
-[LinkedIn](https://www.linkedin.com/in/%C5%9Feyma-atmaca-925b57195/) 
+[LinkedIn](https://www.linkedin.com/in/%C5%9Feyma-atmaca-925b57195/) hesabım.<br> <br>
 Proje tanıtım videosu için --> [buraya tıklayabilirsiniz](https://youtu.be/GyLq-i9Wz1U) 
   
   hesabıma buradan ulaşabilirsiniz. 
